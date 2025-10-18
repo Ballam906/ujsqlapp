@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoTreader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef6d795fb1c86c4a063222d10024451874537fe3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c135a82dbff67e90c0d5b9a660aeb7919c495d7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoTreader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoTreader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
